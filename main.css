@@ -50,4 +50,7 @@ input {
 .pic-set {
     height: 30px;
     border-radius: 50%;
+    padding: 17px;
+    margin: 10px;
+
 }
