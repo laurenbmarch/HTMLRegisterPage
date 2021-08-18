@@ -11,9 +11,9 @@ h2 {
 }
     
 input {
-    margin-left: 20px;
+    margin-left: 10px;
     margin-top: 10px;
-    width: 80%;
+    width: 85%;
     
 }
 .signupform {
@@ -42,15 +42,15 @@ input {
     background-color:cornflowerblue;
     color: white;
     padding: 10px 10px;
-    margin: 20px 20px;
-    width: 80%;  
+    margin: 9px 9px;
+    width: 90%;  
     
 }
 
 .pic-set {
     height: 30px;
     border-radius: 50%;
-    padding: 17px;
-    margin: 10px;
+    padding: 5px;
+    margin: 9px;
 
 }
